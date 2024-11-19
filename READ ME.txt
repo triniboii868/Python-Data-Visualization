@@ -1,0 +1,9 @@
+APIs, geojson, mathplot, random_walk, Titanic, weatherdata, All these project mentioned above were modified from Eric Matthes' Python Crash Course book by Python crash course: A hands-on, project-based introduction to programming (3rd ed.) Matthes, E. (2022). The python file dice_roller was coded and cannabolized by Ronald Kiprono: 
+
+On the other hand, Kaggle runs a machine learning competition on the Titanic data: https://www.kaggle.com/competitions/titanicLinks to an external site. This notebook is from Alexis Cook's Titanic Tutorial page: https://www.kaggle.com/alexisbcook/titanic-tutorial
+
+Lastly Caloric Calculator Chatbot.ipynb program was designed and implemented by me.
+ 
+
+
+
